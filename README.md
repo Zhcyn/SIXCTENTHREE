@@ -1,0 +1,2 @@
+# SIXCTENTHREE
+This code demonstrates a simple AR drawing application that uses ARKit to create lines in 3D space. The multi-peer Connectivity framework is used to share drawings with nearby devices. When ARWorldMap is generated on one device and sent to other nearby devices, the drawing will be displayed on other devices in the correct location. The current application is still under development, and some functions are still being planned. If you encounter problems during the test, please contact me.
